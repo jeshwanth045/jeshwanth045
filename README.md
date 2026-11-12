@@ -19,11 +19,11 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hello! I'm **Jeshwanth Reddy**, a first-year Diploma student specializing in Artificial Intelligence and Machine Learning.
+Hello! I'm **Jeshwanth Reddy**, a Diploma student specializing in Artificial Intelligence and Machine Learning.
 
 I am passionate about technology, programming, and discovering innovative ways to solve real-world problems.
 
-- 🎓 Diploma – AIML (1st Year)
+- 🎓 Diploma – Artificial Intelligence & Machine Learning
 - 💻 Learning C, Python and SQL
 - 🧠 Exploring Artificial Intelligence
 - 🚀 Interested in Software Development
